@@ -35,7 +35,6 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 <code><img height="30" src="https://www.bsonetwork.com/wp-content/uploads/19_04-Google-Cloud-PR-Image-3.png"></code>
 <code><img height="30" src="https://netapp.io/wp-content/uploads/2017/04/Kubernetes-logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></code>
 <code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/v2e3f09d6e6536badfdb5bf4153d08404c10f0bdcdc9056b4896a90327dc2c4ff/tensorflow/images/logo.png"></code>
 
 
