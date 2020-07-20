@@ -27,6 +27,18 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 - 👨🏽‍💻 &nbsp;I’m currently working on a chrome extension called Covid-19 News;
 - 🌱 &nbsp;I’m currently learning Google Cloud and TensorFlow; 
 
+
+📊 **Own My Projects, This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Tableau     4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+GCP         1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+HTML        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Other       1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+```
+<!--END_SECTION:waka-->
+
 **Languages and Tools:**  
 
 <code><img height="30" src="https://media.licdn.com/dms/image/C560BAQG5f9rvo3ImJA/company-logo_200_200/0?e=2159024400&v=beta&t=SCHfS3wATbmGJW6Nm0OXUrrvdWf61ZpbjV5HerdEfys"></code>
