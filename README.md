@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Fayeed!](https://github.com/hemangbhavasar) &nbsp;![](https://komarev.com/ghpvc/?username=hemangbhavasar)
+### Hi there 👋, I'm [Hemang Bhavasar!](https://github.com/hemangbhavasar) &nbsp;![](https://komarev.com/ghpvc/?username=hemangbhavasar)
 
 <a href="https://twitter.com/bhavasarhemang">
   <img align="left" alt="HEMANG BHAVASAR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -30,14 +30,14 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 **Languages and Tools:**  
 
 <code><img height="30" src="https://media.licdn.com/dms/image/C560BAQG5f9rvo3ImJA/company-logo_200_200/0?e=2159024400&v=beta&t=SCHfS3wATbmGJW6Nm0OXUrrvdWf61ZpbjV5HerdEfys"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://www.theinformationlab.de/wp-content/uploads/2019/10/2019-10-21-23_44_51-alteryx-logo-Google-Search.png"></code>
+<code><img height="30" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"></code>
+<code><img height="30" src="https://www.bsonetwork.com/wp-content/uploads/19_04-Google-Cloud-PR-Image-3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://ih1.redbubble.net/image.512523322.6908/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></code>
+<code><img height="30" src="https://www.gstatic.com/devrel-devsite/prod/v2e3f09d6e6536badfdb5bf4153d08404c10f0bdcdc9056b4896a90327dc2c4ff/tensorflow/images/logo.png"></code>
+<code><img height="30" src="https://cxl.com/wp-content/uploads/2019/07/google-data-studio-logo.png"></code>
+<code><img height="30" src="https://netapp.io/wp-content/uploads/2017/04/Kubernetes-logo.png"></code>
 
 
 ![Hemang's github stats](https://github-readme-stats.vercel.app/api?username=hemangbhavasar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
