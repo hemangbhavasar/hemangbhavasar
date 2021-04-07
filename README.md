@@ -29,7 +29,14 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 
 **Completed Projects:**
 
+*[Tableau Voice Enable Dashboard](https://github.com/hemangbhavasar/MedicalDashboard.github.io)*
+*[TradingView Indicators](https://github.com/hemangbhavasar/indicator)*
+*[Colorpalettes Generator from Image](https://github.com/hemangbhavasar/Colorpalettes)*
 *[US Election Result By Voice](https://github.com/hemangbhavasar/WhoWillWin.github.io)*
+*[Nifty50 Stocks Heat Map](https://github.com/hemangbhavasar/heatmap)*
+
+
+
 
 📊 **Own My Projects, This week I spent my time on**
 <!--START_SECTION:waka-->
