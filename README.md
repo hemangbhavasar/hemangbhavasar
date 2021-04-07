@@ -24,10 +24,12 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 &nbsp;I’m currently working on a chrome extension called Covid-19 News;
+- 👨🏽‍💻 &nbsp;I’m currently working on a automate with Python;
 - 🌱 &nbsp;I’m currently learning Google Cloud and TensorFlow; 
 
 **Completed Projects:**
+
+*[COVID-19 News Chrome Extention](https://github.com/hemangbhavasar/Covid-19-Chrome-Extention)*
 
 *[Tableau Voice Enable Dashboard](https://github.com/hemangbhavasar/MedicalDashboard.github.io)*
 
@@ -38,7 +40,6 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 *[US Election Result By Voice](https://github.com/hemangbhavasar/WhoWillWin.github.io)*
 
 *[Nifty50 Stocks Heat Map](https://github.com/hemangbhavasar/heatmap)*
-
 
 
 
