@@ -27,6 +27,8 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 - 👨🏽‍💻 &nbsp;I’m currently working on a chrome extension called Covid-19 News;
 - 🌱 &nbsp;I’m currently learning Google Cloud and TensorFlow; 
 
+**Completed Projects:**
+*[US Election Result By Voice](https://github.com/hemangbhavasar/WhoWillWin.github.io)*
 
 📊 **Own My Projects, This week I spent my time on**
 <!--START_SECTION:waka-->
