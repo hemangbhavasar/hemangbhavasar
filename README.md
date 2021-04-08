@@ -29,7 +29,7 @@ I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If 
 
 **Completed Projects:**
 
-*[Test Sentiment Analysis App](https://github.com/hemangbhavasar/Text-Sentiment-Analysis-_Streamlite)*
+*[Text Sentiment Analysis App](https://github.com/hemangbhavasar/Text-Sentiment-Analysis-_Streamlite)*
 
 *[COVID-19 News Chrome Extention](https://github.com/hemangbhavasar/Covid-19-Chrome-Extention)*
 
