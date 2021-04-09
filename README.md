@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Hemang Bhavasar!](https://github.com/hemangbhavasar) &nbsp;![](https://komarev.com/ghpvc/?username=hemangbhavasar)
 
 <a href="https://twitter.com/bhavasarhemang">
-  <img align="left" alt="HEMANG BHAVASAR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="HEMANG BHAVASAR | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/hemangbhavasar/">
   <img align="left" alt="Fayeed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
