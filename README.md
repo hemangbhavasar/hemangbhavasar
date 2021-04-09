@@ -69,4 +69,3 @@ Other       1 hr 5 mins         ██░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemangbhavasar&layout=compact&theme=dark)]
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemangbhavasar&theme=dark)] 
