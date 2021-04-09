@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm [Hemang Bhavasar!](https://github.com/hemangbhavasar) &nbsp;![](https://komarev.com/ghpvc/?username=hemangbhavasar)
 
 <a href="https://twitter.com/bhavasarhemang">
-  <img align="left" alt="HEMANG BHAVASAR | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />
+  <img align="left" alt="HEMANG BHAVASAR | Twitter" width="25px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/hemangbhavasar/">
-  <img align="left" alt="Fayeed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Fayeed's LinkdeIN" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" />
 </a>
 <a href="bhavasarhemang@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="'Gmail" width="25px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
 <a href="https://t.me/bhavasarhemang">
-  <img align="left" alt="Hemangs's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Hemangs's Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
 </a>
 
 <br />
