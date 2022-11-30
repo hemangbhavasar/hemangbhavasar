@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Hemang Bhavasar, a Data Analyst 📈 from India, currently, I am working with **Saama Technologies** & work on my own small projects.
+Hi, I'm Hemang Bhavasar, a Data Analyst 📈 from India, currently, I am working with **Credit Suisse** & work on my own small projects.
 I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If you think I would be a good fit for your company hit me up.
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1797155/screenshots/5018207/malware-attack.gif" width="300" />
