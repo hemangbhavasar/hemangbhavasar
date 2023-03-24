@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Hemang Bhavasar!](https://github.com/hemangbhavasar) &nbsp;![](https://komarev.com/ghpvc/?username=hemangbhavasar)
 
 <a href="https://public.tableau.com/app/profile/hemang.bhavasar">
-  <img align="left" alt="HEMANG BHAVASAR | Tableau" width="25px" src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" />
+  <img align="left" alt="HEMANG BHAVASAR | Tableau" width="25px" src="https://public.tableau.com/app/assets/images/tableau-public-logo-with-padding.png" />
 </a>
 <a href="https://twitter.com/bhavasarhemang">
   <img align="left" alt="HEMANG BHAVASAR | Twitter" width="25px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-512.png" />
