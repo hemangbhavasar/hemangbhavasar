@@ -23,6 +23,7 @@ Hi, I'm Hemang Bhavasar, a Data Analyst 📈 from India, currently, I am working
 I'm open to new opportunities, I mostly work with Tableau, Alteryx & Python. If you think I would be a good fit for your company hit me up.
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1797155/screenshots/5018207/malware-attack.gif" width="300" />
+
   
   
 **Talking about Personal Stuffs:**
